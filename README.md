@@ -79,11 +79,10 @@ This involves having a physical item or device such as mobile device, security t
 
 ### Step-13 - Click on "I have saved my recovery codes"
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------THANK YOU----------------------------------------------------
 ### Step-14 - 2FA authenticator is now successfully enabled.
 <img src="https://github.com/glory-violet/How-to-enable-2FA-on-Github/assets/137056419/395b45e5-75a8-48a8-851b-2514a971c0be" alt="Description of the image" width="550" height="350">
 
 ### From now on, you will have to enter the passcode displayed on Google Authenticator, along with the ID and password, to log in to the GitHub account as an additional security measure.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------THANK YOU----------------------------------------------------
