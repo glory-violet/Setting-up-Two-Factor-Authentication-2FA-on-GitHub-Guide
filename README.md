@@ -85,4 +85,4 @@ This involves having a physical item or device such as mobile device, security t
 ### From now on, you will have to enter the passcode displayed on Google Authenticator, along with the ID and password, to log in to the GitHub account as an additional security measure.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------THANK YOU----------------------------------------------------
+----------------------------------------------------------THANK YOU----------------------------------------------------
